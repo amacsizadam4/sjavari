@@ -1,4 +1,4 @@
-﻿capital = 354
+capital = 354
 
 # Starting tech
 set_technology = {
@@ -72,9 +72,9 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Avari Discord Yonetimi"
-	desc = "Daha yönetim belli değil"
-	picture = "gfx/leaders/AVR/drip.dss"
-	ideology = centrism
+	desc = "Daha yonetim belli degil"
+	picture = drip.dss
+	ideology = despotism
 	traits = {
 		#
 	}
