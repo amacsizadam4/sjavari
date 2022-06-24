@@ -89,6 +89,17 @@ set_popularities = {
 	neutrality = 50
 }
 
+create_country_leader = {
+	name = "+60 Dayılar"
+	desc = ""
+	picture = GFX_portrait_Ahmed_Ben_Bella
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+
 1939.1.1 = {
 	set_politics = {
 		ruling_party = neutrality
@@ -104,12 +115,3 @@ set_popularities = {
 	}
 }
 
-create_country_leader = {
-	name = "Ahmed Ben Bella"
-	desc = ""
-	picture = GFX_portrait_Ahmed_Ben_Bella
-	ideology = despotism
-	traits = {
-		#
-	}
-}
