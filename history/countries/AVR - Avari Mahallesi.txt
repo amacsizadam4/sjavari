@@ -90,9 +90,15 @@ set_popularities = {
 }
 
 create_country_leader = {
+<<<<<<< Updated upstream
 	name = "Avari Discord Yonetimi"
 	desc = "Daha yönetim belli değil"
 	picture = "drip.dss"
+=======
+	name = "+60 Dayılar"
+	desc = ""
+	picture = "drip.dds"
+>>>>>>> Stashed changes
 	ideology = despotism
 	traits = {
 		#
