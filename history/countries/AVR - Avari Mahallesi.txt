@@ -92,7 +92,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Avari Discord Yonetimi"
 	desc = "Daha yönetim belli değil"
-	picture = GFX_portrait_Ahmed_Ben_Bella
+	picture = "drip.dss"
 	ideology = despotism
 	traits = {
 		#
