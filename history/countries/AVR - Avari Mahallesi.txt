@@ -72,15 +72,9 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Avari Discord Yonetimi"
-<<<<<<< HEAD
 	desc = "Daha yönetim belli değil"
 	picture = "gfx/leaders/AVR/drip.dss"
 	ideology = centrism
-=======
-	desc = "Daha yonetim belli degil"
-	picture = drip.dss
-	ideology = despotism
->>>>>>> 3ba47266c7c7b7ae971f4f44ce5f682e2f2ecfc3
 	traits = {
 		#
 	}
