@@ -97,7 +97,7 @@ create_country_leader = {
 =======
 	name = "+60 Dayılar"
 	desc = ""
-	picture = "drip.dds"
+	picture = drip.dds
 >>>>>>> Stashed changes
 	ideology = despotism
 	traits = {
